@@ -16,6 +16,6 @@
 # not accidentially committed. NEVER commit usernames/passwords or 
 # similar sensistive data.
 variable,value
-wrds_user,user_name
+wrds_user,username
 wrds_pwd,password
 
